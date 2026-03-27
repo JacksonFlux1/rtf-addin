@@ -15,7 +15,7 @@
   <DisplayName DefaultValue="RTF 智能標記" />
   <Description DefaultValue="自動偵測詞語並套用多層次標記格式，提升閱讀重點辨識度。" />
 
-  <SupportUrl DefaultValue="https://YOUR_GITHUB_USERNAME.github.io/rtf-addin/" />
+  <SupportUrl DefaultValue="https://jacksonflux1.github.io/rtf-addin/" />
 
   <Hosts>
     <Host Name="Document" />
@@ -28,7 +28,7 @@
   </Requirements>
 
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://YOUR_GITHUB_USERNAME.github.io/rtf-addin/taskpane.html" />
+    <SourceLocation DefaultValue="https://jacksonflux1.github.io/rtf-addin/taskpane.html" />
   </DefaultSettings>
 
   <Permissions>ReadWriteDocument</Permissions>
